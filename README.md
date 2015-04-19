@@ -1,6 +1,7 @@
 # projetVolley_REST
 Projet REST Volley
 
-modif
+
+Ce projet comporte des exemples avec le framework Volley REST 
 
 
